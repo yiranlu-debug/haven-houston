@@ -1,3 +1,6 @@
 [gd_scene format=3 uid="uid://bluax3kv12wf1"]
 
 [node name="Node" type="Node" unique_id=1837470044]
+
+[node name="Eric" type="CharacterBody2D" parent="." unique_id=1269992153]
+position = Vector2(8, -2)
